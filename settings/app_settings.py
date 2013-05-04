@@ -6,7 +6,7 @@ import pymongo
 # ===================
 
 ADMINS                = (
-    ('Samuel Clay', 'cflynn@irab.org'),
+    ('Charles Flynn', 'cflynn@irab.org'),
 )
 
 SERVER_EMAIL          = 'server@irab.org'
