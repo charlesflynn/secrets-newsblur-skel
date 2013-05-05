@@ -21,7 +21,7 @@ My host OS is Lubuntu, so I needed the following packages via apt-get:
 
  * jammit (0.6.5)
 
-> I encountered an error with version 0.6.6, so I had to specify 0.6.5 with `sudo gem install jammit -v 0.6.5`
+I encountered an error with version 0.6.6, so I had to specify 0.6.5 with `sudo gem install jammit -v 0.6.5`
 
 
 ## Installing
