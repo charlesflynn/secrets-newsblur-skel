@@ -17,6 +17,9 @@ My host OS is Lubuntu, so I needed the following packages via apt-get:
  * fabric
  * pyyaml
  * django-celery
+ * virtualenvwrapper (not required but very useful)
+
+See `requirements.txt` for the full list generated from my virtualenv.
 
 **Ruby (via gem)**
 
