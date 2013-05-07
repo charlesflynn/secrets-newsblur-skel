@@ -16,6 +16,7 @@ My host OS is Lubuntu, so I needed the following packages via apt-get:
  * boto
  * fabric
  * pyyaml
+ * django-celery
 
 **Ruby (via gem)**
 
