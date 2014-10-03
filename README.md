@@ -11,6 +11,12 @@ My host OS is Lubuntu, so I needed the following packages via apt-get:
  * virtualbox (4.1+)
  * vagrant (1.1.x+)
 
+**Vagrant Plugin (via vagrant)**
+
+ * vagrant-hosts
+
+Install with `vagrant plugin install vagrant-hosts`
+
 **Python (via pip)**
 
  * boto
