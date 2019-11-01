@@ -1,4 +1,4 @@
-Django==1.5.1
+Django==1.11.23
 Fabric==1.6.0
 PyYAML==3.10
 amqp==1.0.11
