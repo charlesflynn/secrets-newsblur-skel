@@ -1,6 +1,6 @@
 Django==1.5.1
 Fabric==1.6.0
-PyYAML==3.10
+PyYAML==5.4
 amqp==1.0.11
 anyjson==0.3.3
 argparse==1.2.1
