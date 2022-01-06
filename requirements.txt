@@ -6,7 +6,7 @@ anyjson==0.3.3
 argparse==1.2.1
 billiard==2.7.3.28
 boto==2.9.2
-celery==3.0.19
+celery==5.2.2
 cssutils==0.9.10
 django-celery==3.0.17
 django-extensions==1.1.1
