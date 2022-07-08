@@ -19,7 +19,7 @@ nltk==2.0.4
 paramiko==1.10.1
 pycrypto==2.6
 pyes==0.20.0
-pymongo==2.5
+pymongo==2.5.2
 python-dateutil==2.1
 python-gflags==2.0
 pytz==2013b
